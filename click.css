@@ -1,0 +1,199 @@
+.click-code-create {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.click-code-create .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3000px;
+  position: relative;
+}
+
+.click-code-create .article-title {
+  display: flex;
+  flex-direction: column;
+  width: 733px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--variable-collection-spacing-s);
+  position: absolute;
+  top: 244px;
+  left: 80px;
+}
+
+.click-code-create .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: var(--title-font-family);
+  font-weight: var(--title-font-weight);
+  color: #000000;
+  font-size: var(--title-font-size);
+  letter-spacing: var(--title-letter-spacing);
+  line-height: var(--title-line-height);
+  font-style: var(--title-font-style);
+}
+
+.click-code-create .we-re-hosting-free {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000bf;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  font-style: var(--subheading-font-style);
+}
+
+.click-code-create .navigation {
+  position: absolute;
+  width: 1440px;
+  height: 164px;
+  top: 26px;
+  left: -10px;
+  background-color: #ffffff;
+}
+
+.click-code-create .items {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--variable-collection-spacing-m);
+  position: absolute;
+  top: 56px;
+  left: 818px;
+}
+
+.click-code-create .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.click-code-create .text-wrapper-3 {
+  position: absolute;
+  height: 30px;
+  top: 66px;
+  left: 80px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #000000;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.click-code-create .navigation-footer {
+  position: absolute;
+  width: 1440px;
+  height: 264px;
+  top: 2736px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.click-code-create .text-wrapper-4 {
+  position: absolute;
+  height: 36px;
+  top: 36px;
+  left: 40px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  white-space: nowrap;
+  font-style: var(--subheading-font-style);
+}
+
+.click-code-create .p {
+  position: absolute;
+  height: 20px;
+  top: 223px;
+  left: 1224px;
+  font-family: var(--subheadline-regular-font-family);
+  font-weight: var(--subheadline-regular-font-weight);
+  color: #000000;
+  font-size: var(--subheadline-regular-font-size);
+  letter-spacing: var(--subheadline-regular-letter-spacing);
+  line-height: var(--subheadline-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--subheadline-regular-font-style);
+}
+
+.click-code-create .divider {
+  position: absolute;
+  width: 1280px;
+  height: 1px;
+  top: 0;
+  left: 80px;
+  object-fit: cover;
+}
+
+.click-code-create .rectangle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 174px;
+  left: 40px;
+  object-fit: cover;
+}
+
+.click-code-create .samriddhigupta {
+  position: absolute;
+  width: 654px;
+  height: 67px;
+  top: 72px;
+  left: 40px;
+  font-family: var(--subheading-font-family);
+  font-weight: var(--subheading-font-weight);
+  color: #000000;
+  font-size: var(--subheading-font-size);
+  letter-spacing: var(--subheading-letter-spacing);
+  line-height: var(--subheading-line-height);
+  font-style: var(--subheading-font-style);
+}
+
+.click-code-create .FIRST-logo {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 174px;
+  left: 121px;
+  object-fit: cover;
+}
+
+.click-code-create .ravenclaw-robotics {
+  position: absolute;
+  width: 514px;
+  height: 666px;
+  top: 244px;
+  left: 872px;
+  object-fit: cover;
+}
+
+.click-code-create .image {
+  position: absolute;
+  width: 733px;
+  height: 412px;
+  top: 1154px;
+  left: 653px;
+  object-fit: cover;
+}
